@@ -1,4 +1,4 @@
-# vue_musicapp
+# Vue Music App
 
 ## Project setup
 ```
